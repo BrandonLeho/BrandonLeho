@@ -19,4 +19,7 @@
 
 🌐 Check out my work or get in touch to chat about potential collaborations or just to geek out over tech innovations idrc.
 
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrandonLeho)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonLeho&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
