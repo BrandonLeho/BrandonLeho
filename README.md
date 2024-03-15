@@ -22,4 +22,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrandonLeho)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonLeho&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonLeho)](https://github.com/BrandonLeho/github-readme-stats)
