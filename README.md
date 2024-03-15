@@ -22,4 +22,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrandonLeho)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonLeho)](https://github.com/BrandonLeho/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonLeho&layout=compact)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrandonLeho)](https://github.com/BrandonLeho/github-readme-stats)
