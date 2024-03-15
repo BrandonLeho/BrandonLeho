@@ -1,4 +1,4 @@
-[![MasterHead](https://avatars.githubusercontent.com/u/89223038?v=4)](https://github.com/BrandonLeho)
+[![MasterHead](https://cdn.discordapp.com/attachments/807009143176822803/1218054748490563615/banner.png?ex=660644e2&is=65f3cfe2&hm=92395ad41e3bb3e487c8c2d24041b4ed815b770fa04461a93ab8742e4ac2246c&)](https://github.com/BrandonLeho)
 
 🎓 Computer Science Major
 
