@@ -25,3 +25,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonLeho&layout=compact)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrandonLeho)](https://github.com/BrandonLeho/github-readme-stats)
+
+<a href="https://github.com/BrandonLeho/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BrandonLeho" />
+</a>
+<a href="https://github.com/BrandonLeho/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrandonLeho&layout=compact&langs_count=8&card_width=320" />
+</a>
