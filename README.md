@@ -1,3 +1,5 @@
+[![MasterHead](https://avatars.githubusercontent.com/u/89223038?v=4)](https://github.com/BrandonLeho)
+
 🎓 Computer Science Major
 
 🚀 Aspiring software developer with a knack for building AI-driven applications. Fluent in Java, Kotlin, Python, and a suite of other languages and frameworks. Passionate about pushing the boundaries of machine learning and game development.
