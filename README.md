@@ -19,9 +19,10 @@
 
 🌐 Check out my work or get in touch to chat about potential collaborations or just to geek out over tech innovations idrc.
 
-<a href="https://github.com/BrandonLeho/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BrandonLeho" />
-</a>
+
 <a href="https://github.com/BrandonLeho/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrandonLeho&layout=compact&langs_count=8&card_width=320" />
+</a>
+<a href="https://github.com/BrandonLeho/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BrandonLeho" />
 </a>
