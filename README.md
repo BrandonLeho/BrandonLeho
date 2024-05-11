@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/807009143176822803/1218055096479256606/banner_1.png?ex=66064535&is=65f3d035&hm=e818d9423640c4609c0d34dfdbafcbc0726da36dbe59b3e89481fddcfc55eea7&)](https://github.com/BrandonLeho)
+![banner_1](https://github.com/BrandonLeho/BrandonLeho/assets/89223038/4c241638-79f7-40c1-b023-8e58b1f6688a)
 
 🛠️ Technical Toolbox:
 - Advanced: Java, Kotlin, Python
