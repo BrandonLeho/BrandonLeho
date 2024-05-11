@@ -1,9 +1,5 @@
 [![MasterHead](https://cdn.discordapp.com/attachments/807009143176822803/1218055096479256606/banner_1.png?ex=66064535&is=65f3d035&hm=e818d9423640c4609c0d34dfdbafcbc0726da36dbe59b3e89481fddcfc55eea7&)](https://github.com/BrandonLeho)
 
-🎓 Computer Science Major
-
-🚀 Aspiring software developer with a knack for building AI-driven applications. Fluent in Java, Kotlin, Python, and a suite of other languages and frameworks. Passionate about pushing the boundaries of machine learning and game development.
-
 🛠️ Technical Toolbox:
 - Advanced: Java, Kotlin, Python
 - Intermediate: C, SQL, C#, JavaScript, HTML, CSS
