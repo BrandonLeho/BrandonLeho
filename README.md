@@ -5,7 +5,7 @@
 - Intermediate: C, SQL, C#, JavaScript, HTML, CSS
 - Frameworks & Tools: Android Studio, TensorFlow, PyTorch, JavaFX, SQL Databases, Unity, Node.js
 
-👨‍💻 Projects I'm proud of:
+👨‍💻 Projects:
 - **Machine Learning Chess Bot** (Spring 2024): Merging TensorFlow with Stockfish to revolutionize how we play and learn chess. https://github.com/BrandonLeho/Chess-AI-Machine-Learning
 - **AI Boyfriend Web App** (Spring 2024): Leading the development to create a full-stack application that leverages GPT-4 for engaging user interactions. https://github.com/AI-Boyfriend/Full-Stack
 - **Unity 2D RPG Video Game** (Winter 2023): Crafting a captivating game experience with C# and Unity, focusing on rich gameplay mechanics. https://github.com/BrandonLeho/2D-Dungeon-Crawler
